@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 🧡 My favorite programming languages (among others) are: C# and Lua, but I have a sophisticated history with C++😆
 - 🤔 I’m looking for help with developing a new scripting language ([Formless](https://formless.totalimagine.com/))
 - 👯 And to carry on my semi-finished work on [Somewhere](https://github.com/chaojian-zhang/Somewhere) (maybe Somewhere 2)
+- 👨‍💻 Personal github profile: https://github.com/chaojian-zhang
 - 💬 Ask me about anything!
 - 📫 How to reach me: charles@totalimagine.com, charles.zhang@blackbirdinteractive.com
 - ⚡ Fun fact: I am also developing a 📜[fictional language](https://github.com/Charles-Zhang-Project-Nine/Medalian/wiki)
